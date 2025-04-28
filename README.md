@@ -10,7 +10,7 @@
 
 <br/>
 
-<h2>Running api</h2>
+<h3>Running api</h3>
 <p>To run the api, first you need to enter in api directory.
 <code>cd my/api/directory
 
